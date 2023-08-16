@@ -89,8 +89,8 @@ export default function MainPart() {
                                 </div>
 
 
-
                             </div>
+                            <a className='btn btn-primary w-100 ' href='https://github.com/mahmoud08sakr'  > Github </a>
 
                         </div>
 
