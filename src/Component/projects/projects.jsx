@@ -49,8 +49,8 @@ export default function Projects() {
 
                     <div className="col-md-6">
                         <h3>In this project, I used a lot of libraries from React:</h3>
-                        <div className="row mt-5 ">
-                            <div className="col-md-6">
+                        <div className="d-flex mt-5 ">
+                            <div className="">
 
                                 <ul>
                                     <li>useState</li>
@@ -66,7 +66,7 @@ export default function Projects() {
                             </div>
 
 
-                            <div className="col-md-6">
+                            <div className="">
 
                                 <ul>
                                     <li>useFormik</li>
@@ -102,10 +102,10 @@ export default function Projects() {
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-6">
+                    <div className="col-md-6 text center ">
                         <h3>In this project, I used a lot of libraries from React:</h3>
-                        <div className="row mt-5 ">
-                            <div className="col-md-6">
+                        <div className="d-flex mt-5 ">
+                            <div className="">
                                 <h3>Technologies Used:</h3>
                                 <ul>
                                     <li>axios to fetch the data</li>
@@ -116,7 +116,7 @@ export default function Projects() {
                                 </ul>
                             </div>
 
-                            <div className="col-md-6">
+                            <div className="">
                                 <h3>Additional Skills:</h3>
                                 <ul>
                                     <li>responsive web design</li>
