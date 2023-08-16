@@ -47,6 +47,45 @@ export default function Projects() {
 
 
 
+                    <div className="col-md-6">
+                        <h3>In this project, I used a lot of libraries from React:</h3>
+                        <div className="row mt-5 ">
+                            <div className="col-md-6">
+
+                                <ul>
+                                    <li>useState</li>
+                                    <li>useEffect</li>
+                                    <li>jwt-decode</li>
+                                    <li>framer-motion</li>
+                                    <li>popmotion</li>
+                                    <li>react-three/fiber</li>
+                                    <li>Yup</li>
+                                    <li>useContext</li>
+                                    <li>useNavigate</li>
+                                </ul>
+                            </div>
+
+
+                            <div className="col-md-6">
+
+                                <ul>
+                                    <li>useFormik</li>
+                                    <li>RouterProvider</li>
+                                    <li>createBrowserRouter</li>
+                                    <li>react-hot-toast</li>
+                                    <li>react-day-and-night-toggle</li>
+                                    <li>Protected Routes</li>
+                                    <li>react-detect-offline</li>
+                                    <li>react-helmet</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+
+
+
+
                     <div className="col-md-6 ">
                         <h2>Yummy </h2>
 
@@ -63,11 +102,44 @@ export default function Projects() {
                             </div>
                         </div>
                     </div>
+                    <div className="col-md-6">
+                        <h3>In this project, I used a lot of libraries from React:</h3>
+                        <div className="row mt-5 ">
+                            <div className="col-md-6">
+                                <h3>Technologies Used:</h3>
+                                <ul>
+                                    <li>axios to fetch the data</li>
+                                    <li>bootstrap</li>
+                                    <li>jQuiry</li>
+                                    <li>css</li>
+                                    <li>html</li>
+                                </ul>
+                            </div>
+
+                            <div className="col-md-6">
+                                <h3>Additional Skills:</h3>
+                                <ul>
+                                    <li>responsive web design</li>
+                                    <li>DOM manipulation with JavaScript</li>
+                                    <li>form handling in HTML</li>
+                                    <li>styling with CSS Grid</li>
+                                    <li>event handling in JavaScript</li>
+                                    <li>semantic HTML structure</li>
+                                    <li>media queries for mobile optimization</li>
+                                    <li>CSS animations and transitions</li>
+                                </ul>
+                            </div>
+
+                        </div>
+
+                    </div>
 
                 </div>
 
 
             </div>
-        </div>
+        </div >
+
+
     )
 }
