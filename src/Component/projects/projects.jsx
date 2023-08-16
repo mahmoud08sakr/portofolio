@@ -35,12 +35,12 @@ export default function Projects() {
                         <div className="row">
 
                             <div className="col-md-4">
-                                <img className='w-100  rounded-5' src={img2} alt="" />
+                                <img className='w-100 mb-3 rounded-5' src={img2} alt="" />
                             </div>
                             <div className="col-md-4">
-                                <img className='w-100  rounded-5' src={img3} alt="" />
+                                <img className='w-100 mb-3 rounded-5' src={img3} alt="" />
                             </div> <div className="col-md-4">
-                                <img className='w-100  rounded-5' src={img4} alt="" />
+                                <img className='w-100 mb-3 rounded-5' src={img4} alt="" />
                             </div>
                         </div>
                     </div>
@@ -54,12 +54,12 @@ export default function Projects() {
                         <div className="row">
 
                             <div className="col-md-4">
-                                <img className='w-100  rounded-5' src={img6} alt="" />
+                                <img className='w-100 mb-3 rounded-5' src={img6} alt="" />
                             </div>
                             <div className="col-md-4">
-                                <img className='w-100  rounded-5' src={img7} alt="" />
+                                <img className='w-100 mb-3 rounded-5' src={img7} alt="" />
                             </div> <div className="col-md-4">
-                                <img className='w-100  rounded-5' src={img4} alt="" />
+                                <img className='w-100 mb-3 rounded-5' src={img4} alt="" />
                             </div>
                         </div>
                     </div>
